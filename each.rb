@@ -7,7 +7,8 @@
 weather_options = ["sunny", "snowy", "freezing", "partly cloudy", "drizzly"]
 weather_options.each do |weather|
   puts "It sure is #{weather} outside"
-endß
+end
+
 # Challenge 2
 # Use the each method to print outß the words that are exactly 3 characters in length
 words = ["car", "bike", "bus", "van", "scooter", "truck", "rv"]
